@@ -1,0 +1,3 @@
+/home/edna/Documents/opencv/tuto/CMakeFiles/rebuild_cache.dir
+/home/edna/Documents/opencv/tuto/CMakeFiles/edit_cache.dir
+/home/edna/Documents/opencv/tuto/CMakeFiles/tracking.dir
